@@ -1,4 +1,4 @@
-# Set user name and email
+# Set account credentials
 
 ```
 git config --global user.name "<user_name>"
