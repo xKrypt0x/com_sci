@@ -26,7 +26,7 @@ git add .
 ```
 git commit -m "<add_message_here>
 ```
-[Git commit message guide](https://www.conventionalcommits.org/en/v1.0.0/)
+[Git commit message guide 1](https://www.conventionalcommits.org/en/v1.0.0/) and [Git commit message guide 2](https://udacity.github.io/git-styleguide/)
 
 ### **5**
 
